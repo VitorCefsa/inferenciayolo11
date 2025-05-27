@@ -1,0 +1,52 @@
+# Dependências do Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*
+
+# Cache e build temporário
+dist/
+tmp/
+.cache/
+*.log
+
+# Diretórios temporários e resultados de testes
+coverage/
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+*.pt
+*.onnx
+
+# Arquivos e pastas de output
+runs/
+output/
+inference/
+*.jpg
+*.png
+*.mp4
+*.avi
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos específicos de inferência
+*.weights
+*.tflite
+*.json
+*.ckpt
+*.pb
+*.cfg
+*.engine
+*.trt

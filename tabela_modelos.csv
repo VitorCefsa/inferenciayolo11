@@ -1,0 +1,6 @@
+modelo;total_imagens;imagens_com_deteccao;porcentagem_acerto;media_confiança;erro_medio;tempo_medio_ms;desvio_padrao_tempo_ms
+smartfirewatch_modelo_1/1;72;51;70.83;0.6395;0.3605;1361.1;1058.34
+smartfirewatch_modelo_2/1;72;47;65.28;0.7284;0.2716;2142.29;4017.42
+smartfirewatch_modelo_3/1;72;60;83.33;0.6642;0.3358;2847.4;6987.34
+smartfirewatch_modelo_4-mdrcv/1;72;46;63.89;0.8271;0.1729;2721.89;3667.67
+smartfirewatch_modelo_5/1;72;64;88.89;0.8116;0.1884;2111.1;3122.44
